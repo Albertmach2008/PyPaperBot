@@ -25,7 +25,7 @@ def setSciHubUrl():
     else:
         print(
             "\nNo working Sci-Hub instance found!\nIf in your country Sci-Hub is not available consider using a VPN or a proxy")
-        NetInfo.SciHub_URL = "https://sci-hub.st"
+        NetInfo.SciHub_URL = "https://sci-hub.hkvisa.net"
 
 
 def getSaveDir(folder, fname):
